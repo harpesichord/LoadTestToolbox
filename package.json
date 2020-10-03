@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "chart.js": "^2.5.0",
-    "chartjs-node": "^1.4.1"
+    "chart.js": "~2.7.0",
+    "chartjs-node": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
